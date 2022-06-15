@@ -1,0 +1,12 @@
+E:\NewFrameWork\ByeBikari.Framework\bin\Debug\netstandard2.0\ByeBikari.Framework.deps.json
+E:\NewFrameWork\ByeBikari.Framework\bin\Debug\netstandard2.0\ByeBikari.Framework.dll
+E:\NewFrameWork\ByeBikari.Framework\bin\Debug\netstandard2.0\ByeBikari.Framework.pdb
+E:\NewFrameWork\ByeBikari.Framework\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\NewFrameWork\ByeBikari.Framework\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\NewFrameWork\ByeBikari.Framework\obj\Debug\netstandard2.0\ByeBikari.Framework.csproj.CoreCompileInputs.cache
+E:\NewFrameWork\ByeBikari.Framework\obj\Debug\netstandard2.0\ByeBikari.Framework.AssemblyInfoInputs.cache
+E:\NewFrameWork\ByeBikari.Framework\obj\Debug\netstandard2.0\ByeBikari.Framework.AssemblyInfo.cs
+E:\NewFrameWork\ByeBikari.Framework\obj\Debug\netstandard2.0\ByeBikari.Framework.csproj.CopyComplete
+E:\NewFrameWork\ByeBikari.Framework\obj\Debug\netstandard2.0\ByeBikari.Framework.dll
+E:\NewFrameWork\ByeBikari.Framework\obj\Debug\netstandard2.0\ByeBikari.Framework.pdb
+E:\NewFrameWork\ByeBikari.Framework\obj\Debug\netstandard2.0\ByeBikari.Framework.csprojAssemblyReference.cache

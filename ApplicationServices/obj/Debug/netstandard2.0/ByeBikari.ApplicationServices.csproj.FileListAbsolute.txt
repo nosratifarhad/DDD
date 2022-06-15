@@ -1,0 +1,14 @@
+E:\NewFrameWork\ApplicationServices\bin\Debug\netstandard2.0\ByeBikari.ApplicationServices.deps.json
+E:\NewFrameWork\ApplicationServices\bin\Debug\netstandard2.0\ByeBikari.ApplicationServices.dll
+E:\NewFrameWork\ApplicationServices\bin\Debug\netstandard2.0\ByeBikari.ApplicationServices.pdb
+E:\NewFrameWork\ApplicationServices\bin\Debug\netstandard2.0\ByeBikari.CoreDomain.dll
+E:\NewFrameWork\ApplicationServices\bin\Debug\netstandard2.0\ByeBikari.Framework.dll
+E:\NewFrameWork\ApplicationServices\bin\Debug\netstandard2.0\ByeBikari.CoreDomain.pdb
+E:\NewFrameWork\ApplicationServices\bin\Debug\netstandard2.0\ByeBikari.Framework.pdb
+E:\NewFrameWork\ApplicationServices\obj\Debug\netstandard2.0\ByeBikari.ApplicationServices.csprojAssemblyReference.cache
+E:\NewFrameWork\ApplicationServices\obj\Debug\netstandard2.0\ByeBikari.ApplicationServices.csproj.CoreCompileInputs.cache
+E:\NewFrameWork\ApplicationServices\obj\Debug\netstandard2.0\ByeBikari.ApplicationServices.AssemblyInfoInputs.cache
+E:\NewFrameWork\ApplicationServices\obj\Debug\netstandard2.0\ByeBikari.ApplicationServices.AssemblyInfo.cs
+E:\NewFrameWork\ApplicationServices\obj\Debug\netstandard2.0\ByeBikari.ApplicationServices.csproj.CopyComplete
+E:\NewFrameWork\ApplicationServices\obj\Debug\netstandard2.0\ByeBikari.ApplicationServices.dll
+E:\NewFrameWork\ApplicationServices\obj\Debug\netstandard2.0\ByeBikari.ApplicationServices.pdb

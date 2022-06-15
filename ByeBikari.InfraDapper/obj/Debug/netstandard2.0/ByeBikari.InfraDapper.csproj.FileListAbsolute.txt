@@ -1,0 +1,16 @@
+E:\NewFrameWork\ByeBikari.InfraDapper\bin\Debug\netstandard2.0\ByeBikari.InfraDapper.deps.json
+E:\NewFrameWork\ByeBikari.InfraDapper\bin\Debug\netstandard2.0\ByeBikari.InfraDapper.dll
+E:\NewFrameWork\ByeBikari.InfraDapper\bin\Debug\netstandard2.0\ByeBikari.InfraDapper.pdb
+E:\NewFrameWork\ByeBikari.InfraDapper\bin\Debug\netstandard2.0\ByeBikari.Framework.dll
+E:\NewFrameWork\ByeBikari.InfraDapper\bin\Debug\netstandard2.0\ByeBikari.Framework.pdb
+E:\NewFrameWork\ByeBikari.InfraDapper\obj\Debug\netstandard2.0\ByeBikari.InfraDapper.csprojAssemblyReference.cache
+E:\NewFrameWork\ByeBikari.InfraDapper\obj\Debug\netstandard2.0\ByeBikari.InfraDapper.csproj.CoreCompileInputs.cache
+E:\NewFrameWork\ByeBikari.InfraDapper\obj\Debug\netstandard2.0\ByeBikari.InfraDapper.AssemblyInfoInputs.cache
+E:\NewFrameWork\ByeBikari.InfraDapper\obj\Debug\netstandard2.0\ByeBikari.InfraDapper.AssemblyInfo.cs
+E:\NewFrameWork\ByeBikari.InfraDapper\obj\Debug\netstandard2.0\ByeBikari.InfraDapper.csproj.CopyComplete
+E:\NewFrameWork\ByeBikari.InfraDapper\obj\Debug\netstandard2.0\ByeBikari.InfraDapper.dll
+E:\NewFrameWork\ByeBikari.InfraDapper\obj\Debug\netstandard2.0\ByeBikari.InfraDapper.pdb
+E:\NewFrameWork\ByeBikari.InfraDapper\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.dll
+E:\NewFrameWork\ByeBikari.InfraDapper\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+E:\NewFrameWork\ByeBikari.InfraDapper\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.xml
+E:\NewFrameWork\ByeBikari.InfraDapper\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml

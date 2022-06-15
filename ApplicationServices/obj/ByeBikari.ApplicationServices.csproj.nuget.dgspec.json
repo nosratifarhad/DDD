@@ -1,0 +1,172 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\NewFrameWork\\ApplicationServices\\ByeBikari.ApplicationServices.csproj": {}
+  },
+  "projects": {
+    "E:\\NewFrameWork\\ApplicationServices\\ByeBikari.ApplicationServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\NewFrameWork\\ApplicationServices\\ByeBikari.ApplicationServices.csproj",
+        "projectName": "ByeBikari.ApplicationServices",
+        "projectPath": "E:\\NewFrameWork\\ApplicationServices\\ByeBikari.ApplicationServices.csproj",
+        "packagesPath": "C:\\Users\\farhad\\.nuget\\packages\\",
+        "outputPath": "E:\\NewFrameWork\\ApplicationServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\farhad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "E:\\NewFrameWork\\ByeBikari.CoreDomain\\ByeBikari.CoreDomain.csproj": {
+                "projectPath": "E:\\NewFrameWork\\ByeBikari.CoreDomain\\ByeBikari.CoreDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "E:\\NewFrameWork\\ByeBikari.CoreDomain\\ByeBikari.CoreDomain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\NewFrameWork\\ByeBikari.CoreDomain\\ByeBikari.CoreDomain.csproj",
+        "projectName": "ByeBikari.CoreDomain",
+        "projectPath": "E:\\NewFrameWork\\ByeBikari.CoreDomain\\ByeBikari.CoreDomain.csproj",
+        "packagesPath": "C:\\Users\\farhad\\.nuget\\packages\\",
+        "outputPath": "E:\\NewFrameWork\\ByeBikari.CoreDomain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\farhad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "E:\\NewFrameWork\\ByeBikari.Framework\\ByeBikari.Framework.csproj": {
+                "projectPath": "E:\\NewFrameWork\\ByeBikari.Framework\\ByeBikari.Framework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "E:\\NewFrameWork\\ByeBikari.Framework\\ByeBikari.Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\NewFrameWork\\ByeBikari.Framework\\ByeBikari.Framework.csproj",
+        "projectName": "ByeBikari.Framework",
+        "projectPath": "E:\\NewFrameWork\\ByeBikari.Framework\\ByeBikari.Framework.csproj",
+        "packagesPath": "C:\\Users\\farhad\\.nuget\\packages\\",
+        "outputPath": "E:\\NewFrameWork\\ByeBikari.Framework\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\farhad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

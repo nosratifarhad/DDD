@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="ServiceInterface\IAuthenticationServices\IAuthenticationQueryServices\" />
+    <Folder Include="Services\AuthenticationServices\AuthenticationQueryServices\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ByeBikari.CoreDomain\ByeBikari.CoreDomain.csproj" />
+  </ItemGroup>
+
+</Project>

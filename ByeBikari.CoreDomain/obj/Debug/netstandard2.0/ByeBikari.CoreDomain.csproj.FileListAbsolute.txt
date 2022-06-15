@@ -1,0 +1,12 @@
+E:\NewFrameWork\ByeBikari.CoreDomain\bin\Debug\netstandard2.0\ByeBikari.CoreDomain.deps.json
+E:\NewFrameWork\ByeBikari.CoreDomain\bin\Debug\netstandard2.0\ByeBikari.CoreDomain.dll
+E:\NewFrameWork\ByeBikari.CoreDomain\bin\Debug\netstandard2.0\ByeBikari.CoreDomain.pdb
+E:\NewFrameWork\ByeBikari.CoreDomain\bin\Debug\netstandard2.0\ByeBikari.Framework.dll
+E:\NewFrameWork\ByeBikari.CoreDomain\bin\Debug\netstandard2.0\ByeBikari.Framework.pdb
+E:\NewFrameWork\ByeBikari.CoreDomain\obj\Debug\netstandard2.0\ByeBikari.CoreDomain.csprojAssemblyReference.cache
+E:\NewFrameWork\ByeBikari.CoreDomain\obj\Debug\netstandard2.0\ByeBikari.CoreDomain.csproj.CoreCompileInputs.cache
+E:\NewFrameWork\ByeBikari.CoreDomain\obj\Debug\netstandard2.0\ByeBikari.CoreDomain.AssemblyInfoInputs.cache
+E:\NewFrameWork\ByeBikari.CoreDomain\obj\Debug\netstandard2.0\ByeBikari.CoreDomain.AssemblyInfo.cs
+E:\NewFrameWork\ByeBikari.CoreDomain\obj\Debug\netstandard2.0\ByeBikari.CoreDomain.csproj.CopyComplete
+E:\NewFrameWork\ByeBikari.CoreDomain\obj\Debug\netstandard2.0\ByeBikari.CoreDomain.dll
+E:\NewFrameWork\ByeBikari.CoreDomain\obj\Debug\netstandard2.0\ByeBikari.CoreDomain.pdb

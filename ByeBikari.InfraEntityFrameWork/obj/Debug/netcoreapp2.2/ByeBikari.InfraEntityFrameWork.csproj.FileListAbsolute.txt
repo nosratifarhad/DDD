@@ -1,0 +1,11 @@
+E:\NewFrameWork\ByeBikari.InfraEntityFrameWork\bin\Debug\netcoreapp2.2\ByeBikari.InfraEntityFrameWork.deps.json
+E:\NewFrameWork\ByeBikari.InfraEntityFrameWork\bin\Debug\netcoreapp2.2\ByeBikari.InfraEntityFrameWork.runtimeconfig.json
+E:\NewFrameWork\ByeBikari.InfraEntityFrameWork\bin\Debug\netcoreapp2.2\ByeBikari.InfraEntityFrameWork.runtimeconfig.dev.json
+E:\NewFrameWork\ByeBikari.InfraEntityFrameWork\bin\Debug\netcoreapp2.2\ByeBikari.InfraEntityFrameWork.dll
+E:\NewFrameWork\ByeBikari.InfraEntityFrameWork\bin\Debug\netcoreapp2.2\ByeBikari.InfraEntityFrameWork.pdb
+E:\NewFrameWork\ByeBikari.InfraEntityFrameWork\obj\Debug\netcoreapp2.2\ByeBikari.InfraEntityFrameWork.csproj.CoreCompileInputs.cache
+E:\NewFrameWork\ByeBikari.InfraEntityFrameWork\obj\Debug\netcoreapp2.2\ByeBikari.InfraEntityFrameWork.AssemblyInfoInputs.cache
+E:\NewFrameWork\ByeBikari.InfraEntityFrameWork\obj\Debug\netcoreapp2.2\ByeBikari.InfraEntityFrameWork.AssemblyInfo.cs
+E:\NewFrameWork\ByeBikari.InfraEntityFrameWork\obj\Debug\netcoreapp2.2\ByeBikari.InfraEntityFrameWork.dll
+E:\NewFrameWork\ByeBikari.InfraEntityFrameWork\obj\Debug\netcoreapp2.2\ByeBikari.InfraEntityFrameWork.pdb
+E:\NewFrameWork\ByeBikari.InfraEntityFrameWork\obj\Debug\netcoreapp2.2\ByeBikari.InfraEntityFrameWork.csprojAssemblyReference.cache

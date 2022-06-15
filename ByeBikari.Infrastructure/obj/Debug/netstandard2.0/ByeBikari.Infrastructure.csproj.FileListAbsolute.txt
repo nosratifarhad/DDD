@@ -1,0 +1,14 @@
+E:\NewFrameWork\ByeBikari.Infrastructure\bin\Debug\netstandard2.0\ByeBikari.Infrastructure.deps.json
+E:\NewFrameWork\ByeBikari.Infrastructure\bin\Debug\netstandard2.0\ByeBikari.Infrastructure.dll
+E:\NewFrameWork\ByeBikari.Infrastructure\bin\Debug\netstandard2.0\ByeBikari.Infrastructure.pdb
+E:\NewFrameWork\ByeBikari.Infrastructure\bin\Debug\netstandard2.0\ByeBikari.CoreDomain.dll
+E:\NewFrameWork\ByeBikari.Infrastructure\bin\Debug\netstandard2.0\ByeBikari.Framework.dll
+E:\NewFrameWork\ByeBikari.Infrastructure\bin\Debug\netstandard2.0\ByeBikari.CoreDomain.pdb
+E:\NewFrameWork\ByeBikari.Infrastructure\bin\Debug\netstandard2.0\ByeBikari.Framework.pdb
+E:\NewFrameWork\ByeBikari.Infrastructure\obj\Debug\netstandard2.0\ByeBikari.Infrastructure.csprojAssemblyReference.cache
+E:\NewFrameWork\ByeBikari.Infrastructure\obj\Debug\netstandard2.0\ByeBikari.Infrastructure.csproj.CoreCompileInputs.cache
+E:\NewFrameWork\ByeBikari.Infrastructure\obj\Debug\netstandard2.0\ByeBikari.Infrastructure.AssemblyInfoInputs.cache
+E:\NewFrameWork\ByeBikari.Infrastructure\obj\Debug\netstandard2.0\ByeBikari.Infrastructure.AssemblyInfo.cs
+E:\NewFrameWork\ByeBikari.Infrastructure\obj\Debug\netstandard2.0\ByeBikari.Infrastructure.csproj.CopyComplete
+E:\NewFrameWork\ByeBikari.Infrastructure\obj\Debug\netstandard2.0\ByeBikari.Infrastructure.dll
+E:\NewFrameWork\ByeBikari.Infrastructure\obj\Debug\netstandard2.0\ByeBikari.Infrastructure.pdb
